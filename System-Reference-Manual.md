@@ -214,6 +214,7 @@ Notes regarding the resistors on muxed pins.
 
 BeagleBone AI Back of Board Image
 
+![beaglebone ai front of board](images/BB_AI_Front.jpg)
 ![beaglebone ai back of board](images/BB_AI_Back.jpg)
 
 # 11.0 Support Information
